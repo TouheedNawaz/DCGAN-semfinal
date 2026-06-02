@@ -1,0 +1,5 @@
+Epoch [1/1], Batch [0/469] | D_loss: 1.5284, G_loss: 1.3839 | D(real): 0.332, D(fake): 0.303, G_fooled_D: 0.271
+Epoch [1/1], Batch [100/469] | D_loss: 0.1667, G_loss: 4.0738 | D(real): 0.933, D(fake): 0.084, G_fooled_D: 0.022
+Epoch [1/1], Batch [200/469] | D_loss: 0.1221, G_loss: 3.3830 | D(real): 0.932, D(fake): 0.048, G_fooled_D: 0.045
+Epoch [1/1], Batch [300/469] | D_loss: 0.1547, G_loss: 2.5020 | D(real): 0.901, D(fake): 0.046, G_fooled_D: 0.096
+Epoch [1/1], Batch [400/469] | D_loss: 0.1889, G_loss: 2.8742 | D(real): 0.917, D(fake): 0.091, G_fooled_D: 0.069
