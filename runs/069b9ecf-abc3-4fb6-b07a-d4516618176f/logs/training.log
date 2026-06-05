@@ -1,5 +1,0 @@
-Epoch [1/1], Batch [0], LOSS_D: 1.7599, LOSS_G: 1.3320
-Epoch [1/1], Batch [100], LOSS_D: 0.1257, LOSS_G: 3.7960
-Epoch [1/1], Batch [200], LOSS_D: 0.2574, LOSS_G: 3.5315
-Epoch [1/1], Batch [300], LOSS_D: 0.1118, LOSS_G: 3.1713
-Epoch [1/1], Batch [400], LOSS_D: 0.0621, LOSS_G: 4.2283
